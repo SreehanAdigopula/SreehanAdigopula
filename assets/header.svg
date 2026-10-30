@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sreehan Adigopula</title>
+  <desc id="desc">Building useful software from everyday problems. Focus, security, and research.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#24333c" stroke-width=".7"/></pattern>
+    <linearGradient id="edge" x2="1" y2="0"><stop stop-color="#e6b779"/><stop offset="1" stop-color="#7dd3c7"/></linearGradient>
+  </defs>
+  <rect width="1100" height="360" rx="18" fill="#101b22"/>
+  <rect x="705" width="395" height="360" fill="url(#grid)"/>
+  <path d="M30 338H1070" stroke="url(#edge)" stroke-width="2"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+    <text x="46" y="54" fill="#e6b779" font-family="monospace" font-size="12" letter-spacing="3">SREEHAN / THE WORKSHOP</text>
+    <text x="43" y="118" fill="#f1f0eb" font-size="45" font-weight="700" letter-spacing="-1.5">Sreehan Adigopula</text>
+    <text x="46" y="167" fill="#a8b8c2" font-size="23">Everyday problems.</text>
+    <text x="46" y="201" fill="#f1f0eb" font-size="23">Thoughtfully built software.</text>
+    <text x="46" y="282" fill="#7dd3c7" font-family="monospace" font-size="13" letter-spacing="1.3">STUDENT · BUILDER · EXPERIMENTER</text>
+    <g transform="translate(751 44)">
+      <path d="M36 42H240V246H36Z" fill="none" stroke="#e6b779" stroke-opacity=".35"/>
+      <path d="M16 24H220V228H16Z" fill="#13232a" stroke="#365158"/>
+      <rect width="204" height="204" rx="12" fill="#182b32" stroke="#496067"/>
+      <path d="M0 35H204" stroke="#496067"/>
+      <circle cx="17" cy="18" r="3" fill="#e6b779"/><circle cx="29" cy="18" r="3" fill="#7dd3c7"/><circle cx="41" cy="18" r="3" fill="#71868d"/>
+      <text x="18" y="70" fill="#e6b779" font-family="monospace" font-size="11">01 / FOCUS</text>
+      <path d="M18 91H45L55 80L68 105L84 86H113" stroke="#7dd3c7" stroke-width="2" fill="none"/>
+      <text x="18" y="133" fill="#e6b779" font-family="monospace" font-size="11">02 / SECURITY</text>
+      <path d="M18 151H172" stroke="#496067"/><path d="M18 151H134" stroke="#7dd3c7" stroke-width="3"/>
+      <text x="18" y="182" fill="#e6b779" font-family="monospace" font-size="11">03 / RESEARCH</text>
+      <circle cx="240" cy="246" r="14" fill="#7dd3c7"/>
+      <path d="M234 246H246M240 240V252" stroke="#101b22" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
