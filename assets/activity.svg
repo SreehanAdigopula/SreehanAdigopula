@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="680" viewBox="0 0 1100 680" role="img" aria-labelledby="title desc">
 <title id="title">Public GitHub activity</title>
-<desc id="desc">26 public repositories, 25 original repositories, 4 primary languages. Snapshot 2026-10-30 UTC. Recent repositories: Fricton_all_versions, SecureStart, TLS-Security-Research, PillPal-Legal, PhishGuard.</desc>
+<desc id="desc">27 public repositories, 26 original repositories, 4 primary languages. Snapshot 2026-10-31 UTC. Recent repositories: Portfolio-Website, Fricton_all_versions, SecureStart, TLS-Security-Research, PillPal-Legal.</desc>
 <rect width="1100" height="680" rx="16" fill="#101b22"/>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
 <text x="36" y="44" fill="#7dd3c7" font-size="13" font-weight="600" letter-spacing="2">FROM THE WORKSHOP</text>
-<text x="1064" y="44" fill="#acbbc4" font-size="12" font-weight="400" text-anchor="end" font-family="monospace">SNAPSHOT / 2026-10-30 UTC</text>
+<text x="1064" y="44" fill="#acbbc4" font-size="12" font-weight="400" text-anchor="end" font-family="monospace">SNAPSHOT / 2026-10-31 UTC</text>
 <rect x="36" y="72" width="312" height="113" rx="9" fill="#18272f" stroke="#2d424c"/>
-<text x="56" y="126" fill="#f1f0eb" font-size="38" font-weight="600" >26</text>
+<text x="56" y="126" fill="#f1f0eb" font-size="38" font-weight="600" >27</text>
 <text x="56" y="160" fill="#acbbc4" font-size="11" font-weight="500" letter-spacing="1">PUBLIC REPOSITORIES</text>
 <rect x="394" y="72" width="312" height="113" rx="9" fill="#18272f" stroke="#2d424c"/>
-<text x="414" y="126" fill="#f1f0eb" font-size="38" font-weight="600" >25</text>
+<text x="414" y="126" fill="#f1f0eb" font-size="38" font-weight="600" >26</text>
 <text x="414" y="160" fill="#acbbc4" font-size="11" font-weight="500" letter-spacing="1">ORIGINAL REPOSITORIES</text>
 <rect x="752" y="72" width="312" height="113" rx="9" fill="#18272f" stroke="#2d424c"/>
 <text x="772" y="126" fill="#f1f0eb" font-size="38" font-weight="600" >4</text>
 <text x="772" y="160" fill="#acbbc4" font-size="11" font-weight="500" letter-spacing="1">PRIMARY LANGUAGES</text>
 <text x="36" y="229" fill="#e6b779" font-size="12" font-weight="600" letter-spacing="1">LANGUAGES ACROSS MY PROJECTS</text>
 <text x="36" y="255" fill="#acbbc4" font-size="13" font-weight="400" >Primary language per original, non-archived project; profile repository excluded.</text>
-<rect x="36.00" y="278" width="359.80" height="10" fill="#edaa8d"/>
-<rect x="395.80" y="278" width="359.80" height="10" fill="#7dd3c7"/>
-<rect x="755.60" y="278" width="205.60" height="10" fill="#80b4e8"/>
-<rect x="961.20" y="278" width="102.80" height="10" fill="#e6c86e"/>
+<rect x="36.00" y="278" width="342.67" height="10" fill="#edaa8d"/>
+<rect x="378.67" y="278" width="342.67" height="10" fill="#7dd3c7"/>
+<rect x="721.33" y="278" width="195.81" height="10" fill="#80b4e8"/>
+<rect x="917.14" y="278" width="146.86" height="10" fill="#e6c86e"/>
 <circle cx="41" cy="315" r="4" fill="#edaa8d"/>
 <text x="56" y="320" fill="#acbbc4" font-size="13" font-weight="400" >HTML · 7 repos</text>
 <circle cx="399" cy="315" r="4" fill="#7dd3c7"/>
@@ -27,28 +27,28 @@
 <circle cx="757" cy="315" r="4" fill="#80b4e8"/>
 <text x="772" y="320" fill="#acbbc4" font-size="13" font-weight="400" >TypeScript · 4 repos</text>
 <circle cx="41" cy="341" r="4" fill="#e6c86e"/>
-<text x="56" y="346" fill="#acbbc4" font-size="13" font-weight="400" >JavaScript · 2 repos</text>
+<text x="56" y="346" fill="#acbbc4" font-size="13" font-weight="400" >JavaScript · 3 repos</text>
 <path d="M36 373H1064" stroke="#2d424c"/>
 <text x="36" y="409" fill="#e6b779" font-size="12" font-weight="600" letter-spacing="1">RECENTLY PUSHED</text>
 <text x="36" y="450" fill="#7dd3c7" font-size="12" font-weight="400" font-family="monospace">01</text>
-<text x="78" y="450" fill="#f1f0eb" font-size="15" font-weight="500" >Fricton_all_versions</text>
+<text x="78" y="450" fill="#f1f0eb" font-size="15" font-weight="500" >Portfolio-Website</text>
 <text x="750" y="450" fill="#acbbc4" font-size="13" font-weight="400" >JavaScript</text>
-<text x="1064" y="450" fill="#acbbc4" font-size="13" font-weight="400" text-anchor="end" font-family="monospace">2026-10-07</text>
+<text x="1064" y="450" fill="#acbbc4" font-size="13" font-weight="400" text-anchor="end" font-family="monospace">2026-10-30</text>
 <text x="36" y="489" fill="#7dd3c7" font-size="12" font-weight="400" font-family="monospace">02</text>
-<text x="78" y="489" fill="#f1f0eb" font-size="15" font-weight="500" >SecureStart</text>
+<text x="78" y="489" fill="#f1f0eb" font-size="15" font-weight="500" >Fricton_all_versions</text>
 <text x="750" y="489" fill="#acbbc4" font-size="13" font-weight="400" >JavaScript</text>
 <text x="1064" y="489" fill="#acbbc4" font-size="13" font-weight="400" text-anchor="end" font-family="monospace">2026-10-07</text>
 <text x="36" y="528" fill="#7dd3c7" font-size="12" font-weight="400" font-family="monospace">03</text>
-<text x="78" y="528" fill="#f1f0eb" font-size="15" font-weight="500" >TLS-Security-Research</text>
-<text x="750" y="528" fill="#acbbc4" font-size="13" font-weight="400" >Python</text>
-<text x="1064" y="528" fill="#acbbc4" font-size="13" font-weight="400" text-anchor="end" font-family="monospace">2026-09-07</text>
+<text x="78" y="528" fill="#f1f0eb" font-size="15" font-weight="500" >SecureStart</text>
+<text x="750" y="528" fill="#acbbc4" font-size="13" font-weight="400" >JavaScript</text>
+<text x="1064" y="528" fill="#acbbc4" font-size="13" font-weight="400" text-anchor="end" font-family="monospace">2026-10-07</text>
 <text x="36" y="567" fill="#7dd3c7" font-size="12" font-weight="400" font-family="monospace">04</text>
-<text x="78" y="567" fill="#f1f0eb" font-size="15" font-weight="500" >PillPal-Legal</text>
-<text x="750" y="567" fill="#acbbc4" font-size="13" font-weight="400" >HTML</text>
-<text x="1064" y="567" fill="#acbbc4" font-size="13" font-weight="400" text-anchor="end" font-family="monospace">2026-08-24</text>
+<text x="78" y="567" fill="#f1f0eb" font-size="15" font-weight="500" >TLS-Security-Research</text>
+<text x="750" y="567" fill="#acbbc4" font-size="13" font-weight="400" >Python</text>
+<text x="1064" y="567" fill="#acbbc4" font-size="13" font-weight="400" text-anchor="end" font-family="monospace">2026-09-07</text>
 <text x="36" y="606" fill="#7dd3c7" font-size="12" font-weight="400" font-family="monospace">05</text>
-<text x="78" y="606" fill="#f1f0eb" font-size="15" font-weight="500" >PhishGuard</text>
-<text x="750" y="606" fill="#acbbc4" font-size="13" font-weight="400" >TypeScript</text>
-<text x="1064" y="606" fill="#acbbc4" font-size="13" font-weight="400" text-anchor="end" font-family="monospace">2026-07-24</text>
+<text x="78" y="606" fill="#f1f0eb" font-size="15" font-weight="500" >PillPal-Legal</text>
+<text x="750" y="606" fill="#acbbc4" font-size="13" font-weight="400" >HTML</text>
+<text x="1064" y="606" fill="#acbbc4" font-size="13" font-weight="400" text-anchor="end" font-family="monospace">2026-08-24</text>
 <text x="36" y="657" fill="#acbbc4" font-size="10" font-weight="400" letter-spacing="1">PUBLIC DATA ONLY · UPDATED DAILY WITH GITHUB ACTIONS</text>
 </g></svg>
